@@ -1,0 +1,21 @@
+{
+    "name": "khanamiryan/php-qrcode-detector-decoder",
+    "type": "library",
+    "description": "PHP library to detect and decode QR-codes.",
+    "keywords": [
+        "PHP",
+        "decode",
+        "QR-codes"
+    ],
+    "homepage": "https://github.com/khanamiryan/php-qrcode-detector-decoder",
+    "authors": [
+        {
+            "name": "Ashot Khanamiryan",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "ext-curl": "*"
+    }
+}

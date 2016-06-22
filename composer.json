@@ -1,5 +1,5 @@
 {
-    "name": "zhiguozhang/php-qrcode-detector-decoder",
+    "name": "khanamiryan/php-qrcode-detector-decoder",
     "version": "0.0.1",
     "type": "library",
     "description": "PHP library to detect and decode QR-codes.",
